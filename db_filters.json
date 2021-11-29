@@ -1,0 +1,56 @@
+{
+  "filters": [
+    {
+      "id": 1,
+      "description": "Planning"
+    },
+    {
+      "id": 2,
+      "description": "Implementation"
+    },
+    {
+      "id": 3,
+      "description": "Monitoring"
+    },
+    {
+      "id": 4,
+      "description": "Statement4"
+    },
+    {
+      "id": 5,
+      "description": "Statement5"
+    },
+    {
+      "id": 6,
+      "description": "Statement6"
+    },
+    {
+      "id": 7,
+      "description": "Statement7"
+    },
+    {
+      "id": 8,
+      "description": "Statement8"
+    },
+    {
+      "id": 9,
+      "description": "Statement9"
+    },
+    {
+      "id": 10,
+      "description": "Statement10"
+    },
+    {
+      "id": 11,
+      "description": "Statement11"
+    },
+    {
+      "id": 12,
+      "description": "Statement12"
+    },
+    {
+      "id": 13,
+      "description": "Statement13"
+    }
+  ]
+}
